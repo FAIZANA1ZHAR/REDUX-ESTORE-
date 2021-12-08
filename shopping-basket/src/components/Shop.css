@@ -1,0 +1,56 @@
+.mainDiv {
+    display: inline-flex;
+    margin-top: 3em;
+    width:100%
+}
+
+.card:hover {
+    color: #46a451;
+    cursor: pointer;
+}
+
+.detail {
+    width: 700px;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+}
+
+.mainDiv1 {
+    margin-top: 3em;
+}
+
+.title {
+    padding-right: 10em;
+    font-variant: small-caps;
+}
+
+.Navbar {
+    background-color: #46a451;
+}
+
+#navheading {
+    color: white;
+    font-family: Arial;
+    font-weight: 900;
+}
+
+.carticon {
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+
+#links {
+    align-content: flex-end;
+}
+
+.cardtitle {
+    margin-top: 1em;
+}
+
+.crossicon {
+    width: 20px;
+    height: 20px;
+    color: black;
+    margin-right: -15em;
+}
